@@ -142,7 +142,7 @@ def main():
         elif choice == "6":
             build_dashboard()
         elif choice == "7":
-            print("👋 Goodbye!")
+            print(" Goodbye!")
             break
         else:
             print("Invalid choice, please try again.\n")
